@@ -1,0 +1,116 @@
+body{	
+	background-image: url('phone.jpg');
+}
+#img {
+	position: relative;
+}
+#i1, #i2, #i3, #i4{
+	width: 300px;
+	height: 230px;
+	opacity: 0.92;
+}
+#i1 {
+	left: 60px;
+	top: 90px;
+	transform: rotate(24deg);
+}
+#i2 {
+	top: 360px;
+	left: 310px;
+	transform: rotate(350deg);
+}
+#i3 {
+	top: 170px;
+	left: 640px;
+	transform: rotate(19deg);
+}
+#i4 {
+	top: 290px;
+	left: 999px;
+	transform: rotate(340deg);
+}
+#p1, #p2, #p3, #p4, #p5, #p6, #p7, #p8{
+	width: 65px;
+	height: 43px;
+}
+#p1 {
+	transform: rotate(14deg);
+	top: 230px;
+	left: 19px;
+}
+#p2 {
+	transform: rotate(206deg);
+	left : 337px;
+	top: 146px;
+}
+#p3 {
+	transform: rotate(280deg);
+	left: 275px;
+	top: 370px;
+}
+#p4 {
+	transform: rotate(280deg);
+	left: 572px;
+	top: 530px;
+}
+#p5 {
+	left: 600px;
+	top: 320px;
+
+}
+#p6 {
+	transform: rotate(10deg);
+	left: 918px;
+	top: 210px;
+}
+#p7 {
+	transform: rotate(1deg);
+	left: 1215px;
+	top: 240px;
+}
+#p8 {
+	transform: rotate(1deg);
+	left: 1020px;
+	top: 520px;
+}
+#p1, #p2, #p3, #p4, #p5, #p6, #p7, #p8, #i1, #i2, #i3, #i4, #or2, #book, #cher, #sign, #date, #text {
+	position: absolute;
+}
+#cher {
+	transform: rotate(350deg);
+	width: 200px;
+	height: 200px;
+	top: 392px;
+	left: 130px;
+}
+#sign {
+	transform: rotate(5deg);
+	width: 200px;
+	height: 200px;
+	left: 1006px;
+	top: 30px;
+}
+#date {
+	top: 500px;
+	left: 640px;
+	font-size: 69px;
+}
+#text, #date {
+	color: white;
+	font-family: Brush Script MT, Brush Script Std, cursive;
+}
+#text {
+	font-size: 77px;
+	left: 280px;
+}
+#book {
+	width: 200px;
+	height: 200px;
+	top: 380px;
+	left: 23px;
+}
+#or2 {
+	width: 300px;
+	height: 300px;
+	left: 1050px;
+}
